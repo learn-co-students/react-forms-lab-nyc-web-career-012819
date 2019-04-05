@@ -8,6 +8,10 @@ class App extends Component {
     console.log(`Logging in ${username} with password ${password}`);
   };
 
+  handleSubmit = () => {
+    
+  }
+
   render() {
     return (
       <div>
